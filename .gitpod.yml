@@ -1,5 +1,5 @@
 image:
-  file: .dockerfile
+  file: Dockerfile
   context: nginx
 ports:
 - port: 8080
